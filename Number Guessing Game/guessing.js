@@ -5,7 +5,7 @@ function checkGuess() {
     const userGuess = parseInt(document.getElementById("userGuess").value);
     attempts++
     if (userGuess == targetNum) {
-        document.getElementById("message").innerHTML = 'Correct! The number$(targetNum) in $(attempts)';
+        document.getElementById("message").innerHTML = 'Correct! The number is' + (targetNum) + 'and you guessed in' + $(attempts);
     }
     else if (userGuess > targetNum) {
         document.getElementById("message").innerHTML = 'Reaching too high for that number.';
