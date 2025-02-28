@@ -1,0 +1,14 @@
+C:\Users\CalebVissia\Downloads\ProgrammingLearning\Calculator1\bin\Debug\net9.0\Calculator1.exe
+C:\Users\CalebVissia\Downloads\ProgrammingLearning\Calculator1\bin\Debug\net9.0\Calculator1.deps.json
+C:\Users\CalebVissia\Downloads\ProgrammingLearning\Calculator1\bin\Debug\net9.0\Calculator1.runtimeconfig.json
+C:\Users\CalebVissia\Downloads\ProgrammingLearning\Calculator1\bin\Debug\net9.0\Calculator1.dll
+C:\Users\CalebVissia\Downloads\ProgrammingLearning\Calculator1\bin\Debug\net9.0\Calculator1.pdb
+C:\Users\CalebVissia\Downloads\ProgrammingLearning\Calculator1\obj\Debug\net9.0\Calculator1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CalebVissia\Downloads\ProgrammingLearning\Calculator1\obj\Debug\net9.0\Calculator1.AssemblyInfoInputs.cache
+C:\Users\CalebVissia\Downloads\ProgrammingLearning\Calculator1\obj\Debug\net9.0\Calculator1.AssemblyInfo.cs
+C:\Users\CalebVissia\Downloads\ProgrammingLearning\Calculator1\obj\Debug\net9.0\Calculator1.csproj.CoreCompileInputs.cache
+C:\Users\CalebVissia\Downloads\ProgrammingLearning\Calculator1\obj\Debug\net9.0\Calculator1.dll
+C:\Users\CalebVissia\Downloads\ProgrammingLearning\Calculator1\obj\Debug\net9.0\refint\Calculator1.dll
+C:\Users\CalebVissia\Downloads\ProgrammingLearning\Calculator1\obj\Debug\net9.0\Calculator1.pdb
+C:\Users\CalebVissia\Downloads\ProgrammingLearning\Calculator1\obj\Debug\net9.0\Calculator1.genruntimeconfig.cache
+C:\Users\CalebVissia\Downloads\ProgrammingLearning\Calculator1\obj\Debug\net9.0\ref\Calculator1.dll
