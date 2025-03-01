@@ -11,6 +11,11 @@ namespace CSHARP_Calculator
 
             Console.WriteLine("Hello, welcome to the calculator program");
 
+            Console.WriteLine("What type of operation would you like to do?");
+            Console.WriteLine("Please enter '1' for addition, '2' for subtraction, '3' for multiplication, or '4' for division and '5' for exponents.");
+
+            answer = Console.ReadLine().ToLower();
+            
             Console.Write("Please enter your first number: ");
             while (!int.TryParse(Console.ReadLine(), out num1))
             {
@@ -23,35 +28,35 @@ namespace CSHARP_Calculator
                 Console.Write("Invalid input. Please enter a valid number: ");
             }
 
-            Console.WriteLine("What type of operation would you like to do?");
-            Console.WriteLine("Please enter '1' for addition, '2' for subtraction, '3' for multiplication, or '4' for division.");
-
-            answer = Console.ReadLine().ToLower();
 
             switch (answer)
             {
                 case "1":
                     result = num1 + num2;
-                    Console.WriteLine($"The result is: {result}");
+                    Console.WriteLine($"Addition Result: {result}");
                     break;
                 case "2":
                     result = num1 - num2;
-                    Console.WriteLine($"The result is: {result}");
+                    Console.WriteLine($"Subtraction Result: {result}");
                     break;
                 case "3":
                     result = num1 * num2;
-                    Console.WriteLine($"The result is: {result}");
+                    Console.WriteLine($"Multiplication Result: {result}");
                     break;
                 case "4":
                     if (num2 != 0)
                     {
-                        double divisionResult = (double)num1 / num2;
-                        Console.WriteLine($"The result is: {divisionResult}");
+                        double Result = (double)num1 / num2;
+                        Console.WriteLine($"Division Result: {Result}");
                     }
                     else
                     {
-                        Console.WriteLine("Error: Division by zero is not allowed.");
+                        Console.WriteLine("Don't cause a singularity, don't divide by zero T_T.");
                     }
+                    break;
+                case "5":
+                    double results = Math.Pow(num1, num2);
+                    Console.WriteLine($"Exponent Result: {results}");
                     break;
                 default:
                     Console.WriteLine("Invalid operation selected.");
