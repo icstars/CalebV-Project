@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CalebVissia\\Downloads\\ProgrammingLearning\\Calculator1\\Calculator1.csproj",
+      "projectUniqueName": "C:\\Users\\CalebVissia\\Documents\\GitHub\\CalebV-Project\\Calculator1\\Calculator1.csproj",
       "projectName": "Calculator1",
-      "projectPath": "C:\\Users\\CalebVissia\\Downloads\\ProgrammingLearning\\Calculator1\\Calculator1.csproj",
+      "projectPath": "C:\\Users\\CalebVissia\\Documents\\GitHub\\CalebV-Project\\Calculator1\\Calculator1.csproj",
       "packagesPath": "C:\\Users\\CalebVissia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CalebVissia\\Downloads\\ProgrammingLearning\\Calculator1\\obj\\",
+      "outputPath": "C:\\Users\\CalebVissia\\Documents\\GitHub\\CalebV-Project\\Calculator1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
