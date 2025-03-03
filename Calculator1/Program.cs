@@ -65,8 +65,6 @@ namespace CSHARP_Calculator
                         Console.WriteLine("Invalid operation selected.");
                         break;
                 }
-
-                // Ask if the user wants to continue
                 Console.Write("Would you like to perform another calculation? (y/n): ");
                 string response = Console.ReadLine().ToLower();
 
