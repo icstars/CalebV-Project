@@ -1,0 +1,4 @@
+C:\Users\CalebVissia\Downloads\NamespaceDeliverable\obj\Debug\net9.0\NamespaceDeliverable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CalebVissia\Downloads\NamespaceDeliverable\obj\Debug\net9.0\NamespaceDeliverable.AssemblyInfoInputs.cache
+C:\Users\CalebVissia\Downloads\NamespaceDeliverable\obj\Debug\net9.0\NamespaceDeliverable.AssemblyInfo.cs
+C:\Users\CalebVissia\Downloads\NamespaceDeliverable\obj\Debug\net9.0\NamespaceDeliverable.csproj.CoreCompileInputs.cache
