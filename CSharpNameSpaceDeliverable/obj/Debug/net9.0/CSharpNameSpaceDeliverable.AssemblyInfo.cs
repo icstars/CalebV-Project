@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharpNameSpaceDeliverable")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fbed49c6d7fb9baea35f6dfec4df7b7389e09c13")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32bc5e50c1d4db596d95b12e027c93fbd07f02ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharpNameSpaceDeliverable")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharpNameSpaceDeliverable")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

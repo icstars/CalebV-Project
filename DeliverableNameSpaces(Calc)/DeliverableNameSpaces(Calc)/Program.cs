@@ -26,14 +26,16 @@ class Program
             int x;
             while (!int.TryParse(Console.ReadLine(), out x))
             {
-                Console.Write("Please input a valid number: ");
+                Console.Write("Please input a valid number. ");
+                Console.WriteLine("\nEnter first number: ");
             }
 
             Console.Write("Enter second number: ");
             int y;
             while (!int.TryParse(Console.ReadLine(), out y))
             {
-                Console.Write("Please input a valid number: ");
+                Console.Write("Please input a valid number. ");
+                Console.WriteLine("\nEnter second number: ");
             }
 
             double result = 0;
