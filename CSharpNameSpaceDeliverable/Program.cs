@@ -15,12 +15,12 @@ public class Program
         CalebVOcc calebOccupation = new CalebVOcc();
         ChristineVOcc christineOccupation = new ChristineVOcc();
 
-        Console.WriteLine("\n--- Caleb's Information ---");
+        Console.WriteLine("\n--- Caleb Vissia Information ---");
         calebPerson.Info();
         calebCar.Info();
         calebOccupation.Info();
 
-        Console.WriteLine("\n--- Christine's Information ---");
+        Console.WriteLine("\n--- Christine Vissia Information ---");
         christinePerson.Info();
         christineCar.Info();
         christineOccupation.Info();
