@@ -7,3 +7,13 @@ C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\CSharpNameSpaceDeliverable\
 C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\CSharpNameSpaceDeliverable\obj\Debug\net9.0\CSharpNameSpaceDeliverable.AssemblyInfo.cs
 C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\CSharpNameSpaceDeliverable\obj\Debug\net9.0\CSharpNameSpaceDeliverable.csproj.CoreCompileInputs.cache
 C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\CSharpNameSpaceDeliverable\obj\Debug\net9.0\CSharpNameSpaceDeliverable.sourcelink.json
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\CSharpNameSpaceDeliverable\bin\Debug\net9.0\CSharpNameSpaceDeliverable.exe
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\CSharpNameSpaceDeliverable\bin\Debug\net9.0\CSharpNameSpaceDeliverable.deps.json
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\CSharpNameSpaceDeliverable\bin\Debug\net9.0\CSharpNameSpaceDeliverable.runtimeconfig.json
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\CSharpNameSpaceDeliverable\bin\Debug\net9.0\CSharpNameSpaceDeliverable.dll
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\CSharpNameSpaceDeliverable\bin\Debug\net9.0\CSharpNameSpaceDeliverable.pdb
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\CSharpNameSpaceDeliverable\obj\Debug\net9.0\CSharpNameSpaceDeliverable.dll
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\CSharpNameSpaceDeliverable\obj\Debug\net9.0\refint\CSharpNameSpaceDeliverable.dll
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\CSharpNameSpaceDeliverable\obj\Debug\net9.0\CSharpNameSpaceDeliverable.pdb
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\CSharpNameSpaceDeliverable\obj\Debug\net9.0\CSharpNameSpaceDeliverable.genruntimeconfig.cache
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\CSharpNameSpaceDeliverable\obj\Debug\net9.0\ref\CSharpNameSpaceDeliverable.dll

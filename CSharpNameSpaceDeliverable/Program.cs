@@ -1,6 +1,5 @@
-﻿
+﻿/* using CSharpNameSpaceDeliverable.Occupation;
 using CSharpNameSpaceDeliverable.Car;
-using CSharpNameSpaceDeliverable.Occupation;
 using CSharpNameSpaceDeliverable.People;
     class ChristineInfo
     {
@@ -43,15 +42,48 @@ using CSharpNameSpaceDeliverable.People;
             Console.WriteLine($"Name: {person.Name}, Age: {person.age}, Gender: {person.gender}");
         }
     }
-    class Program
+    public class Program
+{
+    public static void Main(string[] args)
     {
-        public void Main(string[] args)
-        {
-            CalebInfo.CarInfo();
-            CalebInfo.OccupationInfo();
-            CalebInfo.PeopleInfo();
-            ChristineInfo.CarInfo();
-            ChristineInfo.OccupationInfo();
-            ChristineInfo.PeopleInfo();
-        }
+        CalebInfo caleb = new CalebInfo();
+        ChristineInfo christine = new ChristineInfo();
+
+        caleb.CarInfo();
+        caleb.OccupationInfo();
+        caleb.PeopleInfo();
+
+        christine.CarInfo();
+        christine.OccupationInfo();
+        christine.PeopleInfo();
     }
+} */
+using System;
+using CSharpNameSpaceDeliverable.Occupation;
+using CSharpNameSpaceDeliverable.Car;
+using CSharpNameSpaceDeliverable.People;
+
+public class Program
+{
+    public static void Main(string[] args)
+    {
+        CalebVPeople calebPerson = new CalebVPeople();
+        ChristineVPeople christinePerson = new ChristineVPeople();
+
+        CalebVCar calebCar = new CalebVCar();
+        ChristineVCar christineCar = new ChristineVCar();
+
+        CalebVOcc calebOccupation = new CalebVOcc();
+        ChristineVOcc christineOccupation = new ChristineVOcc();
+
+        Console.WriteLine("\n--- Caleb's Information ---");
+        calebPerson.Info();
+        calebCar.Info();
+        calebOccupation.Info();
+
+        Console.WriteLine("\n--- Christine's Information ---");
+        christinePerson.Info();
+        christineCar.Info();
+        christineOccupation.Info();
+    }
+}
