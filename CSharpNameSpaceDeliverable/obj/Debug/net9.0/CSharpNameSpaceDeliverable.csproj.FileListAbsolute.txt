@@ -1,0 +1,9 @@
+C:\Users\CalebVissia\Desktop\CSharpNameSpaceDeliverable\obj\Debug\net9.0\CSharpNameSpaceDeliverable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CalebVissia\Desktop\CSharpNameSpaceDeliverable\obj\Debug\net9.0\CSharpNameSpaceDeliverable.AssemblyInfoInputs.cache
+C:\Users\CalebVissia\Desktop\CSharpNameSpaceDeliverable\obj\Debug\net9.0\CSharpNameSpaceDeliverable.AssemblyInfo.cs
+C:\Users\CalebVissia\Desktop\CSharpNameSpaceDeliverable\obj\Debug\net9.0\CSharpNameSpaceDeliverable.csproj.CoreCompileInputs.cache
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\CSharpNameSpaceDeliverable\obj\Debug\net9.0\CSharpNameSpaceDeliverable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\CSharpNameSpaceDeliverable\obj\Debug\net9.0\CSharpNameSpaceDeliverable.AssemblyInfoInputs.cache
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\CSharpNameSpaceDeliverable\obj\Debug\net9.0\CSharpNameSpaceDeliverable.AssemblyInfo.cs
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\CSharpNameSpaceDeliverable\obj\Debug\net9.0\CSharpNameSpaceDeliverable.csproj.CoreCompileInputs.cache
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\CSharpNameSpaceDeliverable\obj\Debug\net9.0\CSharpNameSpaceDeliverable.sourcelink.json
