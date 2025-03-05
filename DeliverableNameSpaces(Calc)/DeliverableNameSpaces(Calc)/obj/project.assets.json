@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CalebVissia\\Downloads\\NamespaceDeliverable\\NamespaceDeliverable.csproj",
-      "projectName": "NamespaceDeliverable",
-      "projectPath": "C:\\Users\\CalebVissia\\Downloads\\NamespaceDeliverable\\NamespaceDeliverable.csproj",
+      "projectUniqueName": "C:\\Users\\CalebVissia\\Documents\\GitHub\\CalebV-Project\\DeliverableNameSpaces(Calc)\\DeliverableNameSpaces(Calc)\\DeliverableNameSpaces(Calc).csproj",
+      "projectName": "DeliverableNameSpaces(Calc)",
+      "projectPath": "C:\\Users\\CalebVissia\\Documents\\GitHub\\CalebV-Project\\DeliverableNameSpaces(Calc)\\DeliverableNameSpaces(Calc)\\DeliverableNameSpaces(Calc).csproj",
       "packagesPath": "C:\\Users\\CalebVissia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CalebVissia\\Downloads\\NamespaceDeliverable\\obj\\",
+      "outputPath": "C:\\Users\\CalebVissia\\Documents\\GitHub\\CalebV-Project\\DeliverableNameSpaces(Calc)\\DeliverableNameSpaces(Calc)\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,15 @@
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\DeliverableNameSpaces(Calc)\DeliverableNameSpaces(Calc)\bin\Debug\net9.0\DeliverableNameSpaces(Calc).exe
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\DeliverableNameSpaces(Calc)\DeliverableNameSpaces(Calc)\bin\Debug\net9.0\DeliverableNameSpaces(Calc).deps.json
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\DeliverableNameSpaces(Calc)\DeliverableNameSpaces(Calc)\bin\Debug\net9.0\DeliverableNameSpaces(Calc).runtimeconfig.json
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\DeliverableNameSpaces(Calc)\DeliverableNameSpaces(Calc)\bin\Debug\net9.0\DeliverableNameSpaces(Calc).dll
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\DeliverableNameSpaces(Calc)\DeliverableNameSpaces(Calc)\bin\Debug\net9.0\DeliverableNameSpaces(Calc).pdb
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\DeliverableNameSpaces(Calc)\DeliverableNameSpaces(Calc)\obj\Debug\net9.0\DeliverableNameSpaces(Calc).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\DeliverableNameSpaces(Calc)\DeliverableNameSpaces(Calc)\obj\Debug\net9.0\DeliverableNameSpaces(Calc).AssemblyInfoInputs.cache
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\DeliverableNameSpaces(Calc)\DeliverableNameSpaces(Calc)\obj\Debug\net9.0\DeliverableNameSpaces(Calc).AssemblyInfo.cs
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\DeliverableNameSpaces(Calc)\DeliverableNameSpaces(Calc)\obj\Debug\net9.0\DeliverableNameSpaces(Calc).csproj.CoreCompileInputs.cache
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\DeliverableNameSpaces(Calc)\DeliverableNameSpaces(Calc)\obj\Debug\net9.0\DeliverableNameSpaces(Calc).sourcelink.json
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\DeliverableNameSpaces(Calc)\DeliverableNameSpaces(Calc)\obj\Debug\net9.0\DeliverableNameSpaces(Calc).dll
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\DeliverableNameSpaces(Calc)\DeliverableNameSpaces(Calc)\obj\Debug\net9.0\refint\DeliverableNameSpaces(Calc).dll
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\DeliverableNameSpaces(Calc)\DeliverableNameSpaces(Calc)\obj\Debug\net9.0\DeliverableNameSpaces(Calc).pdb
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\DeliverableNameSpaces(Calc)\DeliverableNameSpaces(Calc)\obj\Debug\net9.0\DeliverableNameSpaces(Calc).genruntimeconfig.cache
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\DeliverableNameSpaces(Calc)\DeliverableNameSpaces(Calc)\obj\Debug\net9.0\ref\DeliverableNameSpaces(Calc).dll
