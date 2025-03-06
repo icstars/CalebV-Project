@@ -1,0 +1,15 @@
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\LoginDeliverable\obj\Debug\net9.0\LoginDeliverable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\LoginDeliverable\obj\Debug\net9.0\LoginDeliverable.AssemblyInfoInputs.cache
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\LoginDeliverable\obj\Debug\net9.0\LoginDeliverable.AssemblyInfo.cs
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\LoginDeliverable\obj\Debug\net9.0\LoginDeliverable.csproj.CoreCompileInputs.cache
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\LoginDeliverable\obj\Debug\net9.0\LoginDeliverable.sourcelink.json
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\LoginDeliverable\bin\Debug\net9.0\LoginDeliverable.exe
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\LoginDeliverable\bin\Debug\net9.0\LoginDeliverable.deps.json
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\LoginDeliverable\bin\Debug\net9.0\LoginDeliverable.runtimeconfig.json
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\LoginDeliverable\bin\Debug\net9.0\LoginDeliverable.dll
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\LoginDeliverable\bin\Debug\net9.0\LoginDeliverable.pdb
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\LoginDeliverable\obj\Debug\net9.0\LoginDeliverable.dll
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\LoginDeliverable\obj\Debug\net9.0\refint\LoginDeliverable.dll
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\LoginDeliverable\obj\Debug\net9.0\LoginDeliverable.pdb
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\LoginDeliverable\obj\Debug\net9.0\LoginDeliverable.genruntimeconfig.cache
+C:\Users\CalebVissia\Documents\GitHub\CalebV-Project\LoginDeliverable\obj\Debug\net9.0\ref\LoginDeliverable.dll
