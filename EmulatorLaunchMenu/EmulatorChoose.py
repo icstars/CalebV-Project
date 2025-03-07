@@ -18,7 +18,7 @@ def open_retroarch():
         print(f"Error launching RetroArch: {e}")
 
 root = tk.Tk()
-root.title("Program Launcher")
+root.title("Emulator Selector v0.01")
 root.geometry("800x400")
 
 tk.Label(root, text="Select an Emulator", font=("Arial", 12)).pack(pady=10)
