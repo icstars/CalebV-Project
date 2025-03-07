@@ -4,8 +4,9 @@ namespace LoginLogic
 {
     class Login
     {
-        public string User { get; set; } // get; and set; allow a better way to define and return the value for user and pass, as well as set and change it.
+        public string User { get; set; }
         public string Pass { get; set; }
+        // get; and set; allow a better way to define and return the value for user and pass, as well as set and change it.
 
         public void Submit()
         {
