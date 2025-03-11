@@ -28,6 +28,8 @@ function RainbowEffect() {
     let index = 0;
 
     rainbow = setInterval(() => {
+        /* debugger; added for when I recorded a video showing one of the many ways to debug
+        console.log("Colors list index value:", index); */ // Just for debugging to show which color is being called.
         document.body.style.backgroundColor = colors[index];
         index = (index + 1) % colors.length; 
     }, 500); 
