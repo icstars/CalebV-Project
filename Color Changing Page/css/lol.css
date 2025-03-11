@@ -15,30 +15,30 @@ button {
     border-radius: 5px;
 }
 
-#blueButton {
+#blue {
     background-color: #007bff;
     color: white;
 }
 
-#blueButton:hover {
+#blue:hover {
     background-color: #0056b3;
 }
 
-#whiteButton {
+#white {
     background-color: #f8f9fa;
     color: black;
     border: 1px solid #ddd;
 }
 
-#whiteButton:hover {
+#white:hover {
     background-color: #e2e6ea;
 }
 
-#rainbowButton {
+#rainbow {
     background-color: purple;
     color: white;
 }
 
-#rainbowButton:hover {
+#rainbow:hover {
     background-color: darkviolet;
 }
