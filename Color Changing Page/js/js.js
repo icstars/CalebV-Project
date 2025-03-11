@@ -37,6 +37,6 @@ function stopRainbowEffect() {
     clearInterval(rainbow);
 }
 
-document.getElementById("blueButton").addEventListener("click", Blue);
-document.getElementById("whiteButton").addEventListener("click", White);
-document.getElementById("rainbowButton").addEventListener("click", RainbowEffect);
+document.getElementById("blue").addEventListener("click", Blue);
+document.getElementById("white").addEventListener("click", White);
+document.getElementById("rainbow").addEventListener("click", RainbowEffect);
