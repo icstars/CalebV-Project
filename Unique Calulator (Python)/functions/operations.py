@@ -1,30 +1,34 @@
 def get_numbers():
     numbers = []
+    in_exponents = globals().get('in_exponents', False)
+    
     while True:
         num_input = input("Enter a number (or type 'done' to finish): ").strip()
 
-        if not num_input:  # If input is empty
+        if not num_input:
             print("I can't compute nothing, come on give me something.")
-            continue  # Ask for input again
+            continue
 
         if num_input.lower() == 'done':  
-            if not numbers:  # Prevents exiting without numbers
+            if not numbers:
                 print("You haven't entered any numbers yet! Give me something.")
-                continue  # Keep asking for input
+                continue
 
-            if len(numbers) == 1:  # If only one number is entered
+            if len(numbers) == 1:
                 print("You only want one number? Really?")
                 choice = input("Do you still want to proceed? (yes/no): ").strip().lower()
                 if choice.startswith('n'):
                     print("Okay, give me more numbers then!")
-                    continue  # Ask for more numbers instead of exiting
-            break  # Exit the loop if more than one number or user says yes
+                    continue
+            break
 
         try:
             num = float(num_input)
             numbers.append(num)
+            
+            if in_exponents and len(numbers) == 2:
+                break 
 
-            # Fun messages based on input count
             if len(numbers) in {6, 10, 15}:
                 print("Wow! That's a lot of numbers!")
             elif 19 < len(numbers) < 25:
@@ -34,8 +38,7 @@ def get_numbers():
         except ValueError:
             print("Invalid input. Please enter a valid number.")
 
-    return numbers  # Ensures at least one valid number is returned
-
+    return numbers
 
 def addition():
     while True:
@@ -82,4 +85,21 @@ def division():
                 print(f"Result: {result}")
 
         if input("Do you want to do another division? (yes/no): ").strip().lower() != 'yes':
+            break
+
+def exponents():
+    while True:
+        global in_exponents
+        in_exponents = True
+        
+        numbers = get_numbers()
+        in_exponents = False
+        
+        if numbers:
+            result = numbers[0]
+            for num in numbers[1:]:
+                result = result ** num
+            print(f"Result: {result}")
+
+        if input("Do you want to do another exponentiation? (yes/no): ").strip().lower() != 'yes':
             break

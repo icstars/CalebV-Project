@@ -10,7 +10,7 @@ def special_quit():
 
     if not quit_input_ans:
         print("I can't compute nothing, come on give me something.")
-        return special_quit()  # Recursively ask again
+        return special_quit()
 
     if quit_input_ans.startswith('n'):
         print("Oh... OK.")
@@ -21,7 +21,7 @@ def special_quit():
 
     elif quit_input_ans.startswith('y'):
         quit_input = input("Give me a name: ").strip()
-        if not quit_input:  # Handle empty input
+        if not quit_input:
             print("I need a name! Try again.")
             return special_quit()
 
